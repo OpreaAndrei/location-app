@@ -20,13 +20,6 @@
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="1i9RdkrMEjQ6O6C4fHEtoR8KJFx" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -132,6 +125,9 @@
       <workItem from="1610392858690" duration="7229000" />
       <workItem from="1610402451358" duration="9102000" />
       <workItem from="1611822905583" duration="98000" />
+      <workItem from="1613483484786" duration="271000" />
+      <workItem from="1613483872471" duration="156000" />
+      <workItem from="1613575865022" duration="38000" />
     </task>
     <servers />
   </component>
