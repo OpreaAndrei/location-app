@@ -8,7 +8,7 @@
  To use this application you should register / login if you already have an account.
  Based on the user type you could perform certain actions.
  
- Currently android application have suport just for basic user who can send his current location but backend application have full
+ Currently android application have support just for basic user who can send his current location but backend application have full
  functionality both for admin user and basic user ( tested with postman ).
  
  Basic type user can see his current locations, create a new  location, detele a specific location based on id( only for his id), 
